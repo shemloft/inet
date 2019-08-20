@@ -1,0 +1,2 @@
+{"login": "sad.s0@yandex.ru", "password": "UeCLKTi84F5T52F"}
+{"login": "daria_shemyakina@mail.ru", "password": "211-DA5-PANIC42"}
